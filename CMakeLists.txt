@@ -11,8 +11,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 add_executable(bill
    main.cpp
    Bill.cpp
-   # printbill.cpp
-   # additem.cpp
    billsystem.cpp
 )
 
